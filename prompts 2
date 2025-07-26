@@ -1,0 +1,102 @@
+26. The Workflow Whisperer
+Map my daily routine and find automatable steps.
+"Act as a senior automation consultant. Ask me 10 questions about my daily routine. Identify top 5 automation opportunities. Suggest ideal tools. Give step-by-step implementation for each."
+
+27. Content Replication Engine
+Turn one post into 10 formats across platforms.
+"Convert this blog post into a Twitter thread, LinkedIn post, email teaser, short video script, and Reddit comment. Adjust tone for each."
+
+28. Inbox Detoxifier
+Auto-scan your email habits and reduce time waste.
+"Diagnose my email usage and suggest filters, canned responses, and batch scheduling systems to reclaim 3+ hours/week."
+
+29. SOP Builder Prompt
+Standardize a chaotic process into a repeatable system.
+"Turn this messy process into a step-by-step SOP. Add time estimates, tools used, and who should do each task."
+
+30. Auto-Delegate Assistant
+Find every task you shouldn’t be doing yourself.
+"Identify 10 recurring tasks in my business I should delegate, outsource, or automate. Prioritize based on effort vs. return."
+
+31. Video Workflow Map
+Design your entire YouTube process from idea to publish.
+"Help me build a start-to-finish video production pipeline with checklists, deadlines, and automation options."
+
+32. Recurring Task Detector
+Uncover repeatable routines hiding in your day.
+"Ask me 15 questions to reveal hidden repetitive tasks in my personal and professional life. Summarize tasks with potential for batching or automation."
+
+33. Launch Checklist Generator
+One prompt to create full launch sequence plans.
+"Build me a full product launch checklist for a digital product (e.g., ebook, course, app). Include pre-launch, during launch, and post-launch tasks."
+🎨 CREATIVE PROMPTS & VISUALS
+
+34. Worldbuilder Prompt
+Build a living story world that evolves with you.
+"You are a world engine. Generate a sci-fi world with geography, politics, factions, mythologies. Update world state after each user action. Present story in branching paths."
+
+35. Visual Metaphor Explorer
+Create metaphors for abstract ideas to fuel artwork.
+"Give me 10 visual metaphors for the concept of burnout. Include image prompts I can feed into Midjourney or use in watercolor art."
+
+36. Signature Style Developer
+Define your artistic identity.
+"Act as an art historian and critic. Ask me 7 questions about my creative work. Use answers to craft my unique 'artistic voice' and describe my style in 3 archetypes."
+
+37. Character Generator Engine
+Create complex characters for writing or games.
+"Generate a morally gray fantasy character with a secret, a flaw, a virtue, and a mythic backstory tied to a celestial event."
+
+38. Hooked by Design
+Generate gripping titles or slogans using neuromarketing.
+"Give me 10 emotionally compelling brand slogans using power words, scarcity, curiosity, and rhythm."
+
+39. Tarot Archetype Explainer
+Turn tarot or archetypes into story plot prompts.
+"Explain the Fool's Journey as a hero's arc. Then create a modern story prompt using each major arcana as a plot twist."
+
+40. Vibeboard Builder
+Create aesthetic themeboards using text-only prompts.
+"Help me create an aesthetic moodboard for a retro-futurist horror novel. Include 5 visual keywords, a color palette, and 3 symbolic objects."
+⏱️ PRODUCTIVITY & FOCUS
+
+41. 30-Min Sprint Coach
+Mini-coach for overcoming inertia.
+"Act as a productivity coach. Break my next task into 5 mini-steps. Use language that encourages fast execution and momentum."
+
+42. Weekly Energy Audit
+Identify where your week leaked energy.
+"Help me review my last 7 days. What drained energy, what gave energy, and where did I waste focus? Suggest changes to improve."
+
+43. Thought Loop Breaker
+Interrupt mental spirals.
+"I'm ruminating about [insert]. Ask me 3 grounding questions, suggest a reframe, and give me a 3-step action to reset."
+
+44. The Monk Mode Setup
+Design a distraction-free deep work ritual.
+"Help me build a monk mode system: create a ritual for daily deep work including workspace cues, blocker tools, and rules of engagement."
+
+45. Done is Better Than Perfect Prompt
+Overcome perfection paralysis with an AI cheerleader.
+"I’m procrastinating because I want it to be perfect. Break the task into a ‘good-enough version’ and tell me why done is better."
+🧠 AI TOOLCHAIN & WORKFLOWS
+
+46. Claude Translator Companion
+Use Claude for soft writing and translation, paired with GPT for structure.
+"You’ll collaborate with Claude. Claude rewrites in softer, clearer style. GPT formats for publishing and consistency."
+
+47. AutoAgent Script Maker
+Build autonomous toolchains across models (OpenRouter, Claude, GPT).
+"Design a multi-agent workflow for [goal]. Assign models by strength, show flowchart, write prompt for each agent, suggest API or n8n implementation."
+
+48. Modal Split Engine
+Split AI tasks between tools like Midjourney, DALL·E, Sora, GPT.
+"Given this project idea, recommend which AI tool handles each part of execution. Justify why."
+
+49. API Tutor Prompt
+Explain API docs like you’re my dev mentor.
+"Act as an API explainer. Simplify this OpenAI API reference step-by-step, then show me how to implement it in a JS script."
+
+50. OpenRouter Profit Funnel Prompt
+Design a productized prompt stack to resell.
+"Build a prompt stack that chains Claude, GPT-4, and Gemini to solve a valuable niche problem. Package it for resale as a Gumroad product."
